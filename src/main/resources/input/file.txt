@@ -1,0 +1,100 @@
+1,2012-01-01,09:00,San Jose,Men's Clothing,214.05,Amex
+2,2012-01-01,09:00,Fort Worth,Women's Clothing,153.57,Visa
+3,2012-01-01,09:00,San Diego,Music,66.08,Cash
+4,2012-01-01,09:00,Pittsburgh,Pet Supplies,493.51,Discover
+5,2012-01-01,09:00,Omaha,Children's Clothing,235.63,MasterCard
+6,2012-01-01,09:00,Stockton,Men's Clothing,247.18,MasterCard
+7,2012-01-01,09:00,Austin,Cameras,379.6,Visa
+8,2012-01-01,09:00,New York,Consumer Electronics,296.8,Cash
+9,2012-01-01,09:00,Corpus Christi,Toys,25.38,Discover
+10,2012-01-01,09:00,Fort Worth,Toys,213.88,Visa
+11,2012-01-01,09:00,Las Vegas,Video Games,53.26,Visa
+12,2012-01-01,09:00,Newark,Video Games,39.75,Cash
+13,2012-01-01,09:00,Austin,Cameras,469.63,MasterCard
+14,2012-01-01,09:00,Greensboro,DVDs,290.82,MasterCard
+15,2012-01-01,09:00,San Francisco,Music,260.65,Discover
+16,2012-01-01,09:00,Lincoln,Garden,136.9,Visa
+17,2012-01-01,09:00,Buffalo,Women's Clothing,483.82,Visa
+18,2012-01-01,09:00,San Jose,Women's Clothing,215.82,Cash
+19,2012-01-01,09:00,Boston,Cameras,418.94,Amex
+20,2012-01-01,09:00,Houston,Baby,309.16,Visa
+21,2012-01-01,09:00,Las Vegas,Books,93.39,Visa
+22,2012-01-01,09:00,Virginia Beach,Children's Clothing,376.11,Amex
+23,2012-01-01,09:01,Riverside,Consumer Electronics,252.88,Cash
+24,2012-01-01,09:01,Tulsa,Baby,205.06,Visa
+25,2012-01-01,09:01,Reno,Crafts,88.25,Visa
+26,2012-01-01,09:01,Chicago,Books,31.08,Cash
+27,2012-01-01,09:01,Fort Wayne,Men's Clothing,370.55,Amex
+28,2012-01-01,09:01,San Bernardino,Consumer Electronics,170.2,Cash
+29,2012-01-01,09:01,Madison,Men's Clothing,16.78,Visa
+30,2012-01-01,09:01,Austin,Sporting Goods,327.75,Discover
+31,2012-01-01,09:01,Portland,CDs,108.69,Amex
+32,2012-01-01,09:01,Riverside,Sporting Goods,15.41,Discover
+33,2012-01-01,09:01,Reno,Toys,80.46,Visa
+34,2012-01-01,09:01,Anchorage,Music,298.86,MasterCard
+35,2012-01-01,09:01,Pittsburgh,Sporting Goods,475.26,Amex
+36,2012-01-01,09:01,Spokane,Garden,3.85,Amex
+37,2012-01-01,09:01,Spokane,Computers,287.65,MasterCard
+38,2012-01-01,09:01,Fresno,CDs,466.64,MasterCard
+39,2012-01-01,09:01,Omaha,Baby,255.68,MasterCard
+40,2012-01-01,09:01,Anchorage,DVDs,6.38,Amex
+41,2012-01-01,09:01,Aurora,Consumer Electronics,117.81,MasterCard
+42,2012-01-01,09:01,Philadelphia,DVDs,351.31,Cash
+43,2012-01-01,09:01,Fremont,Baby,222.61,Cash
+44,2012-01-01,09:01,Anchorage,Crafts,22.36,Amex
+45,2012-01-01,09:02,Norfolk,Women's Clothing,189.01,Amex
+46,2012-01-01,09:02,Chandler,Books,414.08,Cash
+47,2012-01-01,09:02,Minneapolis,Computers,182.05,Visa
+48,2012-01-01,09:02,Honolulu,Cameras,345.18,Discover
+49,2012-01-01,09:02,Indianapolis,Books,135.96,Discover
+50,2012-01-01,09:02,Chandler,Books,344.09,Discover
+51,2012-01-01,09:02,Saint Paul,Crafts,33.13,Amex
+52,2012-01-01,09:02,New York,Garden,18.27,Discover
+53,2012-01-01,09:02,Greensboro,Computers,140.94,Discover
+54,2012-01-01,09:02,Spokane,Toys,157.48,MasterCard
+55,2012-01-01,09:02,Boise,Video Games,350.55,Discover
+56,2012-01-01,09:02,Fresno,Crafts,196.83,Visa
+57,2012-01-01,09:02,Durham,Toys,425.79,Visa
+58,2012-01-01,09:02,Riverside,CDs,472.71,Cash
+59,2012-01-01,09:02,Lexington,Women's Clothing,359.29,Visa
+60,2012-01-01,09:02,Durham,Health and Beauty,131.97,Visa
+61,2012-01-01,09:02,Garland,Garden,134.33,Discover
+62,2012-01-01,09:02,Kansas City,Garden,302.69,MasterCard
+63,2012-01-01,09:02,Atlanta,Toys,254.62,Discover
+64,2012-01-01,09:02,Boise,Baby,130.54,Discover
+65,2012-01-01,09:02,New York,Consumer Electronics,153.84,Amex
+66,2012-01-01,09:02,Riverside,Toys,2,Cash
+67,2012-01-01,09:03,San Bernardino,Women's Clothing,100.38,Discover
+68,2012-01-01,09:03,Wichita,Men's Clothing,460.38,MasterCard
+69,2012-01-01,09:03,Santa Ana,Video Games,107.94,Visa
+70,2012-01-01,09:03,New Orleans,Books,157.08,Discover
+71,2012-01-01,09:03,Fremont,Men's Clothing,243.05,Discover
+72,2012-01-01,09:03,Pittsburgh,Music,46.99,Discover
+73,2012-01-01,09:03,Memphis,Toys,9.47,MasterCard
+74,2012-01-01,09:03,Chicago,Garden,16.15,Visa
+75,2012-01-01,09:03,Virginia Beach,Cameras,271.56,Discover
+76,2012-01-01,09:03,Omaha,Children's Clothing,387.75,Visa
+77,2012-01-01,09:03,Tucson,Health and Beauty,367.76,Visa
+78,2012-01-01,09:03,Nashville,Men's Clothing,297.43,Amex
+79,2012-01-01,09:03,Washington,Books,392.81,Discover
+80,2012-01-01,09:03,Greensboro,Garden,11.96,MasterCard
+81,2012-01-01,09:03,Tulsa,Crafts,20.07,Discover
+82,2012-01-01,09:03,Cincinnati,DVDs,299.55,Visa
+83,2012-01-01,09:03,Charlotte,DVDs,440.11,Visa
+84,2012-01-01,09:03,Austin,Crafts,127.8,Discover
+85,2012-01-01,09:03,Anchorage,DVDs,390.2,Visa
+86,2012-01-01,09:03,Albuquerque,Pet Supplies,440.7,Cash
+87,2012-01-01,09:03,Santa Ana,Video Games,294.98,Cash
+88,2012-01-01,09:03,Milwaukee,Men's Clothing,418.91,Discover
+89,2012-01-01,09:03,Jacksonville,Computers,359.65,MasterCard
+90,2012-01-01,09:04,Phoenix,Sporting Goods,371.21,Visa
+91,2012-01-01,09:04,Anchorage,Health and Beauty,368.42,MasterCard
+92,2012-01-01,09:04,Norfolk,Consumer Electronics,480.24,Cash
+93,2012-01-01,09:04,San Antonio,CDs,125.35,Amex
+94,2012-01-01,09:04,New Orleans,DVDs,242.31,Discover
+95,2012-01-01,09:04,Riverside,Computers,278.61,Discover
+96,2012-01-01,09:04,St. Petersburg,CDs,152.9,Discover
+97,2012-01-01,09:04,Lubbock,Sporting Goods,452.07,Visa
+98,2012-01-01,09:04,Toledo,Baby,59.08,Cash
+99,2012-01-01,09:04,Oakland,Garden,155.33,Visa
+100,2012-01-01,09:04,Philadelphia,Pet Supplies,332.48,Amexsss
